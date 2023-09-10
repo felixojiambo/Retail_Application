@@ -1,2 +1,2 @@
 # Retail_Application
-A retail management system build by Ojiambo Felix
+A retail management system built by Ojiambo Felix
